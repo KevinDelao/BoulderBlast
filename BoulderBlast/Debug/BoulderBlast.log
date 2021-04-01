@@ -1,0 +1,18 @@
+﻿  Actor.cpp
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(200,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(240,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(378,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(423,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\Actor.cpp(615,20): warning C4018: '<': signed/unsigned mismatch
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\StudentWorld.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Downloads\BoulderBlast-master\BoulderBlast\StudentWorld.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BoulderBlast.vcxproj -> C:\Users\kevin\Downloads\BoulderBlast-master\Debug\BoulderBlast.exe
