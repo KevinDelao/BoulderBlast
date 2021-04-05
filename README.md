@@ -1,5 +1,5 @@
 # BoulderBlast
-An old CS project from UCLA's CS 32 course
+A CS project from UCLA's CS 32 course
 ## Author: Kevin Delao
 
 
